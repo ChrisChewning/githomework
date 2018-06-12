@@ -10,3 +10,8 @@
 5. you might want to reset your files back to a previous commit because you may have committed something that doesn't work or needs to be changed.
 
 m: "Commit 2 - The 2nd set of GIT homework answers are complete"
+
+
+1. to create a branch you type git branch
+2. to use a different branch you type git checkout <name>
+3. you would want to use a branch other than the default master b.c you can collaboratively work well but independently.
