@@ -1,17 +1,30 @@
 h1 {
   margin-top: 20px;
-  font: Helvetica, Sans-Serif;
+  font-family:'Tangerine', cursive;
 }
 
 h3 {
-  color: white;
+  color: black;
 }
+
 
 body {
   text-align: center;
 }
 
+
  ul {
    list-style-type: none;
-
+   font-size: 24px;
  }
+
+nav {
+  background-color: pink;
+  padding: 10px;
+}
+
+#lightbulb {
+  margin-top: 10px;
+  width: 50%;
+  height: 50%;
+}
